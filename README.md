@@ -1,1 +1,1 @@
-# Strexx-iO
+# Strexx-iOS
