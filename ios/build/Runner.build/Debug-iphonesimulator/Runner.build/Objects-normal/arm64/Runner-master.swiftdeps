@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "a2a0172eda03a559881a0470f7227dd23f417151a3dec2240db20e93a1c15ced"
+build_start_time: [1684294086, 897799968]
+build_end_time: [1684294089, 540615081]
+inputs:
+  "/Users/kimsian/Desktop/git/Strexx-iOS/ios/Runner/AppDelegate.swift": [1670504782, 286776542]
